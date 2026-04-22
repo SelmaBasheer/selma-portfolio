@@ -3,8 +3,8 @@ import CakeHutImg from '../assets/CakeHutBanner.png'
 import VillaVistaImg from '../assets/VillaVistaBanner.png'
 import PortfolioImg from '../assets/PortfolioBanner.png'
 import ToDoAppImg from '../assets/ToDoAppImg.png'
-import NetflixImg from '../assets/NetflixBanner.png'
-import OlxImg from '../assets/OlxBanner.png'
+import NetflixImg from '../assets/NetFlixBanner.png'
+import OlxImg from '../assets/OLXBanner.png'
 import { motion } from "framer-motion"
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";

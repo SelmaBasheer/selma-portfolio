@@ -19,7 +19,7 @@ import {
 import { DiMsqlServer } from "react-icons/di";
 import { motion } from "framer-motion";
 import hero from "../assets/hero.png";
-import profilePic from "../assets/selmaProfessional.jpeg";
+import profilePic from "../assets/SelmaProfessional.jpeg";
 
 const Hero = () => {
 
